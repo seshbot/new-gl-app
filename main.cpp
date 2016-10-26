@@ -11,6 +11,7 @@
 
 #include <GLFW/glfw3.h>
 
+#include <stdlib.h> // for exit() stuff
 #include <iostream>
 #include "utils.h"
 
