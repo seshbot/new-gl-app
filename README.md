@@ -9,5 +9,6 @@ To compile you should be able to write:
     cd new-gl-app
     mkdir build && cd build
     cmake ..
+    cmake --build .
 
     ./glapp
